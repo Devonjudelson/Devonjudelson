@@ -1,9 +1,9 @@
 ## Welcome
                                       
                                       
-My name is Devon, I am currently a student at Stephen F. Austin State University studying computer science with a minor in mathematics. 
+My name is Devon. I am currently a student at Stephen F. Austin State University studying computer science with a minor in mathematics. 
 
-I enjoy running, coding, and anything to do with data analytics and data science!
+I enjoy running, coding, and anything to do with data!
 <hr>
 
 ```
